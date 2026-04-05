@@ -1,4 +1,4 @@
 #NEW PROJECT
 
 This project is created from local system
-created by simran kumari
+created by simran kumari.
